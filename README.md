@@ -1,5 +1,4 @@
-# Command Line Games, Inc
+Change extension of game.txt to game.js. 
 
-1. Please select the language you would like to use from those available. 
-2. When you are happy with your work, please send a link to your GitHub repo with the final version of your code on the `master` branch. 
-3. There is no deadline. # tictactoe
+Play the game with node game.js
+
